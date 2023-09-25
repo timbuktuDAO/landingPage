@@ -1,3 +1,3 @@
-export default function foote() {
+export default function footer() {
     return <></>
 }
